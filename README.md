@@ -13,5 +13,5 @@
   <img align="center" alt="Rc-jqry" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" />
   <img align="center" alt="Rc-angular" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
   <img align="center" alt="Rc-react" height="40" width="40"src="https://logospng.org/download/react/logo-react-1024.png" />
-  <img align="center" alt="Rc-bootstrap" height="30" width="40"src="https://img2.gratispng.com/20180512/stw/kisspng-bootstrap-responsive-web-design-web-development-lo-5af676c04b0535.2749534815261016963073.jpg" />
+  <img align="center" alt="Rc-bootstrap" height="30" width="40"src="https://brandlogos.net/wp-content/uploads/2021/09/bootstrap-logo.png" />
 </div>
